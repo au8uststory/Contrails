@@ -16,7 +16,7 @@ K-POP, C-POP, T-POP
 > This is the description of the feed.
 
 K-POP, C-POP, T-POPに関連する投稿
-まだテスト中です。
+テスト中
 
 # searchTerms
 
